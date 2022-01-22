@@ -22,6 +22,6 @@ Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce neyi d
 
 ## License
 [MIT](#)
-![]()
+
 ===
 
